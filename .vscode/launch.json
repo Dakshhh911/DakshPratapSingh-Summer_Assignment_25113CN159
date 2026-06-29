@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Summer Code/Day 2",
-      "program": "d:/Summer Code/Day 2/build/Debug/outDebug",
+      "cwd": "d:/Summer Code/Day 4",
+      "program": "d:/Summer Code/Day 4/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
